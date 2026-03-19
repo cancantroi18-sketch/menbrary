@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "ラーメンレビューアプリ",
+  title: "メンブラリー",
   description: "ラーメンの写真と感想を投稿し、地図上でラーメン店を探せるレビューコミュニティアプリ",
 };
 
